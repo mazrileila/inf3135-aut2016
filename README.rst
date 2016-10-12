@@ -22,4 +22,4 @@ License
 =======
 
 Tout le contenu de ce projet est sous `license GPLv3
-<https://www.gnu.org/licenses/gpl-3.0.en.html>`__
+<https://www.gnu.org/licenses/gpl-3.0.en.html>`__.
