@@ -1,0 +1,9 @@
+// Du code provenant de stdio.h
+
+int main() {
+    int i = -6, j, k;
+    j = ((i) > 0 ? (i) : -(i));
+    k = ABS;
+    printf("ABS(%d) = %d\n", i, j);
+    return 0;
+}

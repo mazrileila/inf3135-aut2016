@@ -1,0 +1,9 @@
+// Du code provenant de stdio.h
+
+int main() {
+    int x = 6, j, k, m, n;
+    j = -x+1 * x+1;
+    k = -(x+1 * x+1);
+    m = -((x+1) * (x+1));
+    n = -((x++) * (x++));
+}
