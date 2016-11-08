@@ -17,6 +17,8 @@ Les fichiers sont répartis selon les cours :
 - ``cours4``: Structures de données
 - ``cours5``: Entrées et sorties
 - ``cours6``: Modularité
+- ``cours7`` et ``cours8``: Bibliothèques
+- ``cours9``: Tests
 
 License
 =======
