@@ -1,9 +1,13 @@
-//Module de test pour essayer la pull request
+ /**
+ * File test_treemap.c
+ *
+ * Testing the ``treemap`` module with CUnit.
+ */
 
 
 #include <stdio.h>
 #include "treemap.h"
-#include "CUnit/Basic.h
+#include "CUnit/Basic.h"
 
 void test_treemapSetGet(void) {
     TreeMap t = treemapCreate();
